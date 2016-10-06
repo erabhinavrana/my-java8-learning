@@ -1,0 +1,21 @@
+Lambda Expressions:
+
+Lambda expression facilitates the functional programming, and simplifies the development a lot.
+
+Syntax: parameter -> expression body
+
+Following are the important characteristics of a lambda expression:
+
+a) Optional type declaration: There is no need to declare the type of a parameter. The compiler will inference the same from the value of parameter.
+
+b) Optional parenthesis around parameter: There is no need to declare parenthesis around single parameter, but in case of multiple parameter parenthesis is required.
+
+c) Optional Curly braces: There is no need to put curly braces around expression if expression contains single statement.
+
+d) Optional return keyword: The compiler will automatically return the value if the body has single expression which will return the value. Curly braces are required to indicate that expression will returns a value.
+
+Points to be considered:
+
+Lambda expressions are used primarily to define inline implementation of a functional interface, i.e., an interface with a single method only.
+Lambda expressions gives a very simple yet powerful functional programming capability to Java.
+Lambda expressions can also be used to refer final variables.
