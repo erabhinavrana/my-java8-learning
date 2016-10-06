@@ -1,0 +1,23 @@
+Introduction:
+
+JAVA 8 (jdk 1.8) provide support for functional programming, new JavaScript engine, new API’s for Date time manipulation, new streaming API, etc
+
+New Features:
+
+There are lot of features added to java 8, few of them are mentioned below:
+
+1. Lambda expression : It provides functional processing capability to java.
+
+2. Method references : Instead of calling the functions directly, reference them by their name. Using functions as parameter.
+
+3. Default method : It introduces a default method implementation in an Interface.
+
+4. Stream API : A new stream API is introduce to facilitate the pipeline processing.
+
+5. Date Time API : Improved Date Time API.
+
+6. Optional : It emphasis on best practices to handle null values.
+
+7. Nashorn, JavaScript Engine : It is java based engine to execute JavaScript code.
+
+Note: Apart from these new features, lot of feature enhancements are done at both compiler  and JVM level.
